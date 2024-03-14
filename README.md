@@ -4,7 +4,7 @@
 Create an interactive dashboard to analyze and visualize the sales and performance data of an online skincare store. 
 
 # Excel Tools Used
-1. SUM Function: Utilized for aggregating the total sales for the year and total sales for each order.
+1. SUM Function: Utilized for aggregating the total sales for the whole year.
 
 2. COUNTA Function: Used for counting the total units sold, total products and total number of customers.
 
@@ -16,11 +16,12 @@ Create an interactive dashboard to analyze and visualize the sales and performan
 
 
 # Dashboard Screenshot
-![image](https://github.com/roxxoxc24/Excel-Dashboard-Project/assets/162118104/ea770000-0654-4895-a32b-d4987feb7c14)
+![Capture](https://github.com/roxxoxc24/Excel-Dashboard-Project/assets/162118104/20c40484-527f-4c3d-a8a5-c253ba1b9174)
+
 
 
 # Insights Gained
-Based on the data, the online skincare store earned in a total of 1,042,756 in sales for the year 2023. A total of 1,020 skincare products were sold. Overall they had 50 skincare products in store and 487 customers in total for the year.
+Based on the data, the online skincare store earned in a total of 1,054,656 sales for the year 2023. A total of 1,020 skincare products were sold. Overall they had 50 skincare products in store and 487 customers in total for the year.
 
 **• Top 5 Selling products**
 
@@ -34,17 +35,17 @@ The Top 5 selling products are
 
 **• Best-selling and least-selling brands**
 
-Among all the brands, Cetaphil, an international brand, generated the most sales wth 212,416 sales or the 20% of the total sales.
+Among all the brands, Cetaphil, an international brand, generated the most sales wth 212,416 sales or the 20.12% of the total sales.
 With only 17,739 sales, or 1.68% of total sales, local Filipino brand Belo Essentials produced the fewest sales.
 
 **• Best and worst month for sales**
 
-The months with the highest sales were November and December, and the lowest were January.
+The months with the highest sales were November and December, and the lowest were July.
 
 **• Highest and least sales in terms of product category**
 
-Cleanser products produced to most sales taking 29% of the sales with 310,847. 
-On the other hand Toner products only produced 113,288 which is only 11% of the sales.
+Cleanser products produced to most sales taking 29.44% of the sales with 310,847. 
+On the other hand Toner products only produced 113,288 which is only 10.73% of the sales.
 
 
 **• Highest paying customers**
