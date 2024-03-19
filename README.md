@@ -16,7 +16,7 @@ Create an interactive dashboard to analyze and visualize the sales and performan
 
 
 # Dashboard Screenshot
-![Capture](https://github.com/roxxoxc24/Excel-Dashboard-Project/assets/162118104/20c40484-527f-4c3d-a8a5-c253ba1b9174)
+![Capture12](https://github.com/roxxoxc24/Excel-Dashboard-Project/assets/162118104/066beb6e-d577-4ac4-8d70-29aec1163635)
 
 
 
